@@ -25,7 +25,14 @@ This framework utilizes the following open-source plugins/tools:
 * **[GPUTrail](https://github.com)** by **celyk** — Used for high-performance GPU trail effects.
 
 ## 📸 Screenshots & Gameplay
-*(Add your screenshots or gameplay GIFs here)*
+<img width="2700" height="1224" alt="Screenshot_20261125_201709_org_godotengine_editor_v4_GodotEditor" src="https://github.com/user-attachments/assets/b15f920b-4bcf-40d0-9fae-009ae1e4f6b5" />
+<img width="2700" height="1224" alt="Screenshot_20261125_201707_org_godotengine_editor_v4_GodotEditor" src="https://github.com/user-attachments/assets/6e72eef9-2d31-43d4-b0aa-2e3d42c1abce" />
+<img width="2700" height="1224" alt="Screenshot_20261125_201704_org_godotengine_editor_v4_GodotEditor" src="https://github.com/user-attachments/assets/a90e8cbb-80da-4465-8623-5d34c431424e" />
+<img width="2700" height="1224" alt="Screenshot_20261125_201658_org_godotengine_editor_v4_GodotEditor" src="https://github.com/user-attachments/assets/2b898d37-30c8-47be-b8a1-05a47a9804a6" />
+<img width="2700" height="1224" alt="Screenshot_20261125_201653_org_godotengine_editor_v4_GodotEditor" src="https://github.com/user-attachments/assets/de30bbf0-11ae-4331-9923-2d190d016cd3" />
+<img width="2700" height="1224" alt="Screenshot_20261125_201613_org_godotengine_editor_v4_EmbeddedGodotGame" src="https://github.com/user-attachments/assets/1ce29497-3f2f-4208-9b74-283554631545" />
+<img width="2700" height="1224" alt="Screenshot_20261125_201450_org_godotengine_editor_v4_EmbeddedGodotGame" src="https://github.com/user-attachments/assets/9dec1630-c282-4db9-98e8-f0cbac89999f" />
+<img width="2700" height="1224" alt="Screenshot_20261125_201414_org_godotengine_editor_v4_EmbeddedGodotGame" src="https://github.com/user-attachments/assets/e56b9949-0db9-4a06-9af4-ea5ed1dc25ef" />
 
 ## ⚖️ Disclaimer & License
 * This is a non-commercial, fan-made open-source framework created for educational and creative purposes. 
