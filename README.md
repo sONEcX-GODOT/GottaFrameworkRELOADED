@@ -4,7 +4,7 @@ A full-featured **Sonic Unleashed-style** framework built in **Godot 4** (GDScri
 
 ## ✨ Key Features
 * **Cross-Platform Ready:** Smooth performance and touch/gamepad controls out of the box for Android and PC.
-* **Day & Night Gameplay Styles:** High-speed Daytime Sonic physics (slopes, loops, 3D/2.5D transitions) alongside a **basic Werehog** setup inspired by *Sonic Unleashed*.
+* **Day & Night Gameplay Styles:** High-speed Daytime Sonic physics (slopes, loops, 3D) alongside a **basic Werehog** setup inspired by *Sonic Unleashed*.
 * **Core Sonic Abilities:** Includes **Boost**, **Air Boost**, **Homing Attack**, **Rail Grinding**, **Quick Step**, Drift, Slide, Stomp, and more.
 * **Sonic Unleashed Level Objects:** Comes with most of the classic interactive objects from *Sonic Unleashed* (Springs, Dash Panels, Rings, Jump Boards, Rails, Enemies, etc.).
 * **Advanced Effects Management:** Modular system for visual effects, trails, and shaders.
